@@ -37,7 +37,7 @@ const SalesforceReport: React.FC = () => {
             <div className="score-circle">
               <span>93</span>
             </div>
-            <p>Tracxn Score</p>
+            <p>Odin Score</p>
           </div>
         </header>
 
@@ -140,7 +140,7 @@ const SalesforceReport: React.FC = () => {
         <div className="page-footer">
           <div className="page-number">1</div>
           <div className="footer-text">Date of Report Generation: 11th Feb, 2025</div>
-          <div className="copyright">Copyright © 2025, Tracxn Technologies Limited. All rights reserved.</div>
+          <div className="copyright">Copyright © 2025, Odin Technologies Limited. All rights reserved.</div>
         </div>
       </section>
 
@@ -323,7 +323,7 @@ const SalesforceReport: React.FC = () => {
         <div className="page-footer">
           <div className="page-number">2</div>
           <div className="footer-text">Date of Report Generation: 11th Feb, 2025</div>
-          <div className="copyright">Copyright © 2025, Tracxn Technologies Limited. All rights reserved.</div>
+          <div className="copyright">Copyright © 2025, Odin Technologies Limited. All rights reserved.</div>
         </div>
       </section>
 
@@ -578,7 +578,7 @@ const SalesforceReport: React.FC = () => {
         <div className="page-footer">
           <div className="page-number">3</div>
           <div className="footer-text">Date of Report Generation: 11th Feb, 2025</div>
-          <div className="copyright">Copyright © 2025, Tracxn Technologies Limited. All rights reserved.</div>
+          <div className="copyright">Copyright © 2025, Odin Technologies Limited. All rights reserved.</div>
         </div>
       </section>
 
@@ -930,7 +930,7 @@ const SalesforceReport: React.FC = () => {
         <div className="page-footer">
           <div className="page-number">4</div>
           <div className="footer-text">Date of Report Generation: 11th Feb, 2025</div>
-          <div className="copyright">Copyright © 2025, Tracxn Technologies Limited. All rights reserved.</div>
+          <div className="copyright">Copyright © 2025, Odin Technologies Limited. All rights reserved.</div>
         </div>
       </section>
 
@@ -1206,7 +1206,7 @@ const SalesforceReport: React.FC = () => {
         <div className="page-footer">
           <div className="page-number">5</div>
           <div className="footer-text">Date of Report Generation: 11th Feb, 2025</div>
-          <div className="copyright">Copyright © 2025, Tracxn Technologies Limited. All rights reserved.</div>
+          <div className="copyright">Copyright © 2025, Odin Technologies Limited. All rights reserved.</div>
         </div>
       </section>
 
@@ -1349,7 +1349,7 @@ const SalesforceReport: React.FC = () => {
         <div className="page-footer">
           <div className="page-number">6</div>
           <div className="footer-text">Date of Report Generation: 11th Feb, 2025</div>
-          <div className="copyright">Copyright © 2025, Tracxn Technologies Limited. All rights reserved.</div>
+          <div className="copyright">Copyright © 2025, Odin Technologies Limited. All rights reserved.</div>
         </div>
       </section>
     </div>
