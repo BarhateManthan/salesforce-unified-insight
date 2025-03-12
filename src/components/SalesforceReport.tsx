@@ -238,7 +238,7 @@ const SalesforceReport: React.FC = () => {
           <h2 className="section-title">Coverage Areas of Salesforce</h2>
           <div className="coverage-item">
             <span className="coverage-icon">▣</span>
-            <span>Enterprise Applications > Sales Force Automation > CRM > Enterprise Suite > Multi-Industry</span>
+            <span>Enterprise Applications {'>'}  Sales Force Automation {'>'}  CRM {'>'}  Enterprise Suite {'>'}  Multi-Industry</span>
           </div>
 
           <h3>Other Coverage Areas</h3>
